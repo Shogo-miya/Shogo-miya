@@ -1,10 +1,10 @@
 ### Hi, my name is Shogo Miyazaki
-
+##
 - 🏫 Student at UNIFESP
 - 🔭 I`m currently working on frontend 
 - 🌱 Learning javascript
 - 🖥️ Science and tecnology/Computer Science Student
-
+##
 <div style="display: inline_block"><br>
   <img align="center" alt="Shogo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Shogo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
